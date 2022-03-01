@@ -3,7 +3,8 @@
 
 # But not these files...
 !.gitignore
-*/Teller_47_Analysis/Teller_47_analysis_and_figures.ipynb
+!test.txt
+!*/Teller_47_Analysis/Teller_47_analysis_and_figures.ipynb
 # etc...
 
 # ...even if they are in subdirectories
