@@ -9,12 +9,25 @@
 
 # ...even if they are in subdirectories
 !*/
-#!*/Teller_47_Analysis
 
 # if the files to be tracked are in subdirectories
 !*Teller_47_analysis_and_figures.ipynb
-!*insar_displacements.csv
+
+######Section 1
+!*t47_dem.tif
+
+######Section 2
 !*T47_GCPs_extract.csv
-#!*/Teller_47_Analysis/Teller_47_analysis_and_figures.ipynb
-!*/a/b/file1.txt
-!*/a/b/c/*
+!*T47_targets_extract.csv
+
+
+#######Section 4
+!*Nome_climate_data.csv
+!*insar_displacements.csv
+!*nome_airport_data_all.csv
+
+#######Section 5
+!*t47_acc.tif
+!*poly_failure_TL47_2018_jcr.shp
+!*2018UASExtent.shp
+
