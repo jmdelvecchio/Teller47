@@ -1,17 +1,15 @@
 # Ignore everything
 *
-# Don't ignore directories, so we can recurse into them
-!*/
 
-# Don't ignore .gitignore and *.foo files
+# But not these files...
 !.gitignore
-!*/Teller_47_Data/Teller_47_Data_Rasters/t47_dem.tif
-!*/Teller_47_Analysis/Teller_47_analysis_and_figures.ipynb
-!*/Teller_47_Data/Teller_47_Data_dGPS/T47_GCPs_extract.csv
-!*/Teller_47_Data/Teller_47_Data_dGPS/T47_targets_extract.csv
-!*/Teller_47_Data/insar_displacements.csv
-!*/Teller_47_Data/Nome_climate_data.csv
-!*/Teller_47_Data/Teller_47_Data_Rasters/t47_acc.tif
-!*/Teller_47_Data/Teller_47_Data_Shapefiles/poly_failure_TL47_2018_jcr.*
+!script.pl
+!template.latex
+# etc...
 
+# ...even if they are in subdirectories
+!*/Teller_47_Analysis
 
+# if the files to be tracked are in subdirectories
+!*/a/b/file1.txt
+!*/a/b/c/*
