@@ -4,12 +4,13 @@
 # But not these files...
 !.gitignore
 !test.txt
-!*//Teller_47_Analysis//Teller_47_analysis_and_figures.ipynb
+
 # etc...
 
 # ...even if they are in subdirectories
-#!*//Teller_47_Analysis
+!*//Teller_47_Analysis
 
 # if the files to be tracked are in subdirectories
+!*//Teller_47_Analysis//Teller_47_analysis_and_figures.ipynb
 !*/a/b/file1.txt
 !*/a/b/c/*
