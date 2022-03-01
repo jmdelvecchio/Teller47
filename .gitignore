@@ -8,7 +8,7 @@
 # etc...
 
 # ...even if they are in subdirectories
-!*/Teller_47_Analysis
+!*//Teller_47_Analysis
 
 # if the files to be tracked are in subdirectories
 !*/a/b/file1.txt
