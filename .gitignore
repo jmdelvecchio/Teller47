@@ -42,12 +42,12 @@
 !*2018UASExtent.shp
 !*TL47_2019_ImageryFootprint.shp
 !*poly_failure_TL47_2018_jcr.shp
-!*2019_Failure_merged_unique.shp
+!Teller_47_Data/Teller_47_Data_Shapefiles/2019_Failure_merged_unique.shp
 
 
 
 
 #######Section 6
 !*subseasonal_all.txt
-!*Target_locations_171819_all_observations.csv
+!Teller_47_Data/Teller_47_Data_dGPS/Target_locations_171819_all_observations.csv
 
