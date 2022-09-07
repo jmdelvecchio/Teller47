@@ -39,10 +39,10 @@
 
 
 #######Section 4
-!*2018UASExtent.shp
-!*TL47_2019_ImageryFootprint.shp
-!*poly_failure_TL47_2018_jcr.shp
-!Teller_47_Data/Teller_47_Data_Shapefiles/2019_Failure_merged_unique.shp
+!*2018UASExtent*
+!*TL47_2019_ImageryFootprint*
+!*poly_failure_TL47_2018_jcr*
+!Teller_47_Data/Teller_47_Data_Shapefiles/2019_Failure_merged_unique*
 
 
 
