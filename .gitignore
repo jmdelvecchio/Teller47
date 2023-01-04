@@ -16,7 +16,7 @@
 ######Section 1
 !*regional_dem.tif
 !*regional_slope.tif
-!*water_vectors.shp
+!*water_vectors.*
 !*zoom_dem.tif
 !*zoom_slope.tif
 !*target_locs_cleaned.csv
@@ -43,6 +43,7 @@
 !*TL47_2019_ImageryFootprint*
 !*poly_failure_TL47_2018_jcr*
 !Teller_47_Data/Teller_47_Data_Shapefiles/2019_Failure_merged_unique*
+!*footprint*
 
 
 
