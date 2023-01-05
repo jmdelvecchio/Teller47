@@ -18,3 +18,4 @@ dependencies:
 - xarray
 - glob
 - os
+- statannotations
