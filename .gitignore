@@ -12,6 +12,7 @@
 
 # if the files to be tracked are in subdirectories
 !*Del_Vecchio_et_al_v1.ipynb
+!*.yml
 
 ######Section 1
 !*regional_dem.tif

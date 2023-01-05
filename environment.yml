@@ -1,0 +1,20 @@
+name: t47
+channels:
+- conda-forge
+dependencies: 
+- mpl_toolkits
+- matplotlib
+- rasterio
+- contextlib
+- shapely
+- rasterstats
+- rioxarray
+- geopandas
+- seaborn
+- pandas
+- numpy
+- richdem
+- fiona
+- xarray
+- glob
+- os
